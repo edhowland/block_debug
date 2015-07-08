@@ -1,0 +1,10 @@
+h1 'Block Debug'
+
+h2 'Abstract'
+
+para <<-EOP
+Experimental debugging Ruby within blocks. 
+Assume you have some code snippets that get executed within a largerRuby framework,
+and you need to debug the Ruby environment passed to the snippet.
+EOP
+
